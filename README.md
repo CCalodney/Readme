@@ -36,7 +36,7 @@ To do:
 
 
 ## Contact
-Created by Trevor Courville, Jack Kammerer, Maitland Huffman, and Chase Calodney(eqd3@txstate.edu)
+Created by Trevor Courville(tcc92@txstate.edu), Jack Kammerer(ulp1@txstate.edu), Maitland Huffman(zzi1@txstate.edu), and Chase Calodney(eqd3@txstate.edu)
 
 
 <!-- Optional -->
