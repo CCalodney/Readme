@@ -5,11 +5,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [TODO](#TODO)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -17,32 +14,14 @@
 ## General Information
 - The Ganymede marketplace addresses the challenges students face when trying to find affordable, second-hand items like textbooks, electronics, and furniture on campus.
 - It makes the buying and selling useful supplies and other goods simple and nearby, which helps promote the safety of both parties as well as fostering a sense of community.
-- We undertook this project to create something that would positively benefit our community.
+- We undertook this project to create something that would positively benefit our community, and to create something that we ourselves would use.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Ganymede runs on a Flask webapp, with features developed in Python.
-- Canvas API
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-1. Install GIT: https://git-scm.com/downloads
-2. Install Python: https://www.python.org/downloads/
-3. Install VSCode: https://code.visualstudio.com/download
-4. Install GitKraken: https://www.gitkraken.com/download
-Once these are installed, create an account on Jira(https://support.atlassian.com/atlassian-account/docs/create-an-atlassian-account/) and Bitbucket(https://bitbucket.org/).
-
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+- Flask(https://flask.palletsprojects.com/en/3.0.x/)
+- Python(https://www.python.org/doc/)
+- Canvas API(https://canvas.instructure.com/doc/api/)
 
 
 ## Project Status
@@ -54,10 +33,6 @@ To do:
 - Creating an account with Texas State email
 - Ability to view items on sale
 - Canvas API implementation
-
-
-## Acknowledgements
-- Many thanks to Ted Lehr and the Ganymede Team
 
 
 ## Contact
