@@ -1,5 +1,5 @@
 # Ganymede
-> The Texas State Student Marketplace is an online platform designed exclusively for students of Texas State University. This marketplace allows students to buy, sell, and trade goods within their community, offering a secure and convenient way to connect with fellow students. From textbooks to dorm essentials, this platform caters specifically to the needs of the Texas State student body, ensuring a safe and easy way to exchange items on campus.
+> The Texas State Student Marketplace is an online platform designed exclusively for students of Texas State University. This marketplace allows students to buy, sell, and trade goods within their community, offering a secure and convenient way to connect with fellow students. From textbooks to dorm essentials, or webapp caters specifically to the needs of the Texas State student body, ensuring a safe and easy way to exchange items on campus.
 
 
 ## Table of Contents
