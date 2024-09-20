@@ -15,7 +15,7 @@
 
 
 ## General Information
-- Our webapp allows users to buy and sell goods amongst the student body at Texas State.
+- The Ganymede marketplace addresses the challenges students face when trying to find affordable, second-hand items like textbooks, electronics, and furniture on campus.
 - It makes the buying and selling useful supplies and other goods simple and nearby, which helps promote the safety of both parties as well as fostering a sense of community.
 - We undertook this project to create something that would positively benefit our community.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -61,7 +61,7 @@ To do:
 
 
 ## Contact
-Created by Trevor Courville, Jack Kammerer, Maitland Huffman, and Chase Calodney
+Created by Trevor Courville, Jack Kammerer, Maitland Huffman, and Chase Calodney(eqd3@txstate.edu)
 
 
 <!-- Optional -->
