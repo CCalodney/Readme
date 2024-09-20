@@ -1,5 +1,5 @@
 # Ganymede
-> An online marketplace that allows Texas State students to easily buy and sell goods within the Texas State community.
+> The Texas State Student Marketplace is an online platform designed exclusively for students of Texas State University. This marketplace allows students to buy, sell, and trade goods within their community, offering a secure and convenient way to connect with fellow students. From textbooks to dorm essentials, this platform caters specifically to the needs of the Texas State student body, ensuring a safe and easy way to exchange items on campus.
 
 
 ## Table of Contents
@@ -30,6 +30,12 @@
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
+1. Install GIT: https://git-scm.com/downloads
+2. Install Python: https://www.python.org/downloads/
+3. Install VSCode: https://code.visualstudio.com/download
+4. Install GitKraken: https://www.gitkraken.com/download
+Once these are installed, create an account on Jira(https://support.atlassian.com/atlassian-account/docs/create-an-atlassian-account/) and Bitbucket(https://bitbucket.org/).
+
 
 
 ## Usage
