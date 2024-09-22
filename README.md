@@ -30,9 +30,9 @@ Project is: In progress
 
 ## TODO
 To do:
-- Creating an account with Texas State email
-- Ability to view items on sale
-- Canvas API implementation
+- AccountCreation - Creating an account with Texas State email, for all users of the app to be able to actually use it
+- CheckInventory - Ability to view items on sale, for all users of app to look at what items we have listed for sale
+- CanvasCalender - Canvas API implementation
 
 
 ## Contact
