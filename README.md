@@ -32,7 +32,7 @@ Project is: In progress
 To do:
 - AccountCreation - Creating an account with Texas State email, for all users of the app to be able to actually use it
 - CheckInventory - Ability to view items on sale, for all users of app to look at what items we have listed for sale
-- CanvasCalender - Canvas API implementation
+- EditProfile - Ability to edit your profile with information like your name and picture.
 
 
 ## Contact
