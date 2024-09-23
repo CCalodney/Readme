@@ -30,9 +30,16 @@ Project is: In progress
 
 ## TODO
 To do:
-- AccountCreation - Creating an account with Texas State email, for all users of the app to be able to actually use it
-- CheckInventory - Ability to view items on sale, for all users of app to look at what items we have listed for sale
-- EditProfile - Ability to edit your profile with information like your name and picture.
+- AccountCreation - Creating an account with Texas State email, for all users of the app to be able to actually use it.
+  User story: As a user, I would like to be able to create an account using my Texas State email so that I can ensure that the marketplace is exclusive to Texas State students,
+  allowing me to safely buy, sell, and interact with others within my university community.
+- UserComplaints - Ability to give developers direct feedback about any issues the user is experiencing.
+  User story: As a user, I want to be able to message the developers directly through the web app when I encounter issues so that I can get help quickly and ensure a smooth experience.
+- PersonalizeProfile - Ability to edit your profile with information like your name picture, academic year, and interests to connect more easily with buyers and sellers.
+  User story: As a college student, I want to customize my profile on the marketplace app with details like my academic year, major, and interests,
+  so I can connect more easily with buyers and sellers who share similar needs or backgrounds. It also helps build trust within the campus community
+  and makes my profile feel more personalized and relatable.
+  
 
 
 ## Contact
